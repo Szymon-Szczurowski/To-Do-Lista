@@ -1,3 +1,3 @@
 # To-Do-Lista
 
-https://szymon-szczurowski.github.io/To-Do-Lista/
+[To Do Lista](https://szymonszczurowski.github.io/To-Do-Lista/)
